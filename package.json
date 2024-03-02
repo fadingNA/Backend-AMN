@@ -12,5 +12,8 @@
   },
   "keywords": [],
   "author": "fadingNA",
-  "license": "NO LICENSE"
+  "license": "NO LICENSE",
+  "devDependencies": {
+    "prettier": "3.2.5"
+  }
 }
