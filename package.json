@@ -1,0 +1,16 @@
+{
+  "name": "backend-amn",
+  "version": "1.0.0",
+  "description": "personal project backend api for ask me now",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fadingNA/Backend-AMN.git"
+  },
+  "keywords": [],
+  "author": "fadingNA",
+  "license": "NO LICENSE"
+}
